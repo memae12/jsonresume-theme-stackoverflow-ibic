@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-stackoverflow-ibic",
-  "version": "1.4.5",
+  "name": "jsonresume-theme-stackoverflow-compact",
+  "version": "1",
   "description": "Stack Overflow theme for JSON Resume",
-  "author": "Francesco Esposito <http://fran.cesco.io> (Fork created by Hou Tianze)",
+  "author": "Marly-Mae (Fork created by Hou Tianze)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/houtianze/jsonresume-theme-stackoverflow-ibic"
+    "url": "https://github.com/memae12/jsonresume-theme-stackoverflow-ibic"
   },
   "license": "MIT",
   "main": "index.js",
