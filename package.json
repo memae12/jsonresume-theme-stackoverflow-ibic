@@ -12,5 +12,8 @@
   "dependencies": {
     "handlebars": "^4.3.0",
     "moment": "^2.19.3"
-  }
+  },
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+}
 }
